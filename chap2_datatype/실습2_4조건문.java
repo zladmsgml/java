@@ -22,7 +22,7 @@ public class 실습2_4조건문 {
 	    int n = sc.nextInt(); //정수일 때
 
 	    String st = sc.next(); //문자열일 때
-	    boolean a = st.equals("부산");
+	    boolean a = st.equals("서울");
 
 
 	         // 불리언 변수 선언 및 초기화
